@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 declare -i Y=0
 declare -i XMin=1
 declare -i XMax=10
